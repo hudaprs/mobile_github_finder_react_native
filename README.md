@@ -1,6 +1,6 @@
 # GitHub Finder with React Native
 
-GitHub Finder React Native V1.0.0 using Expo
+GitHub Finder React Native V1.0.0 using React Native CLI.
 
 ## Overview
 
@@ -35,5 +35,5 @@ npm install
 ## Run android
 
 ```
-npm start | expo start
+react-native run-android
 ```
